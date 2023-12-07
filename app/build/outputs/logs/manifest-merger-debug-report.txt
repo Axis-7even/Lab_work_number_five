@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\4dc0bb36af7228184f301ea5244e51a2\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\mariy\.gradle\caches\transforms-3\cea778b87f7fedc9e8b8de4a2703282b\transformed\constraint-layout-1.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\baba7b17761e58046c6090e1e333e978\transformed\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\c58fc8f3849b7d424f7d0f55b7d29b0b\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\20753ea3892dc1a104257d9317f31540\transformed\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\5348aa5eb3a5d1bf70e742546a5133b4\transformed\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\f9989dfd365d8a08b4c84d73189543f0\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\ec84526143a782b9fb9732ec9b133dfd\transformed\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mariy\.gradle\caches\transforms-3\e8e3df592808fef931c277335c23fed6\transformed\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mariy\.gradle\caches\transforms-3\61be9cb68f076190a3aed7ec7b936892\transformed\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mariy\.gradle\caches\transforms-3\2d6c81bfb2dc6e81ebed4e9169a36ceb\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mariy\.gradle\caches\transforms-3\4d1f29e9f2cb46d57b5530a26133a3df\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:16:11-57
+		INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:11-69
+application
+ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\mariy\.gradle\caches\transforms-3\cea778b87f7fedc9e8b8de4a2703282b\transformed\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\mariy\.gradle\caches\transforms-3\cea778b87f7fedc9e8b8de4a2703282b\transformed\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\4dc0bb36af7228184f301ea5244e51a2\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\4dc0bb36af7228184f301ea5244e51a2\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\mariy\.gradle\caches\transforms-3\cea778b87f7fedc9e8b8de4a2703282b\transformed\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\mariy\.gradle\caches\transforms-3\cea778b87f7fedc9e8b8de4a2703282b\transformed\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\baba7b17761e58046c6090e1e333e978\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\baba7b17761e58046c6090e1e333e978\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\c58fc8f3849b7d424f7d0f55b7d29b0b\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\c58fc8f3849b7d424f7d0f55b7d29b0b\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\20753ea3892dc1a104257d9317f31540\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\20753ea3892dc1a104257d9317f31540\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\5348aa5eb3a5d1bf70e742546a5133b4\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\5348aa5eb3a5d1bf70e742546a5133b4\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\f9989dfd365d8a08b4c84d73189543f0\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\f9989dfd365d8a08b4c84d73189543f0\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\ec84526143a782b9fb9732ec9b133dfd\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mariy\.gradle\caches\transforms-3\ec84526143a782b9fb9732ec9b133dfd\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mariy\.gradle\caches\transforms-3\e8e3df592808fef931c277335c23fed6\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mariy\.gradle\caches\transforms-3\e8e3df592808fef931c277335c23fed6\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mariy\.gradle\caches\transforms-3\61be9cb68f076190a3aed7ec7b936892\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mariy\.gradle\caches\transforms-3\61be9cb68f076190a3aed7ec7b936892\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mariy\.gradle\caches\transforms-3\2d6c81bfb2dc6e81ebed4e9169a36ceb\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mariy\.gradle\caches\transforms-3\2d6c81bfb2dc6e81ebed4e9169a36ceb\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mariy\.gradle\caches\transforms-3\4d1f29e9f2cb46d57b5530a26133a3df\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mariy\.gradle\caches\transforms-3\4d1f29e9f2cb46d57b5530a26133a3df\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mariy\labs\android\HelloSharedPrefs\app\src\main\AndroidManifest.xml
